@@ -1,4 +1,4 @@
-# Projeto-de-instala-o-el-trica-residencial
+# Projeto-de-instalação-elétrica-residencial
 Repositório com o projeto de instalação elétrico residencial realizado na disciplina de Instalações Elétricas (PEA3402). 
 
 Nesse projeto realizou-se o levantamento da instalação elétrica do meu apartamento. Baseado na norma NBR-5410, foram levantados os seguintes dados: 
